@@ -18,9 +18,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ? {}
 
 <i>Write your explanation here</i>
+The result is empty array because of it declared variable is empty.
 
 </p>
 </details>
